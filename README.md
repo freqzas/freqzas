@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @freqzas
 - 👀 I’m interested in Web development, Web design, Data structure. Scripting
-- 🌱 I’m currently learning, JS(Advanced), Ruby on rails.
-- 💞️ I’m looking to collaborate on at the moment with no one
+- 🌱 I’m currently learning, CSS animations & web design(advanced)
+- 💞️ I’m looking to collaborate on creating business 
 - 📫 How to reach me DM
 
 <!---
