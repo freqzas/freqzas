@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @freqzas
+- 👋 Hi, I’m @Aspero
 - 👀 I’m interested in Web development, Web design, Data structure. Scripting
 - 🌱 I’m currently learning, CSS animations & web design(advanced)
 - 💞️ I’m looking to collaborate on creating business 
