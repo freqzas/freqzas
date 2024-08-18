@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aspero
-- 👀 I’m interested in Web development, Web design, Data structure. Scripting
+- 👀 I’m interested in Web development, Web design, Data science. Scripting
 - 🌱 I’m currently learning, NEXT.js and AI
 - 💞️ I’m looking to collaborate on creating a business 
 - 📫 How to reach me DM
