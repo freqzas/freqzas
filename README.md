@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aspero
-- 👀 I’m interested in Web development, Web design, Data science. Scripting
+- 👀 I’m interested in full stack web development, Data science, Security
 - 🌱 I’m currently learning, Python,ThreeJS,Laravel
 - 💞️ I’m looking to collaborate on creating a business 
 - 📫 How to reach me : ldvarzeckas@gmail.com
