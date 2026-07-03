@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Larry
-- 👀 I’m interested in full stack web developer, Data science, Security
-- 🌱 I’m currently learning, Python,ThreeJS,Laravel
+- 👀 I’m interested in full-stack web developer, AI/ML, Data science, and security
+- 🌱 I’m currently learning, -
 - 💞️ I’m looking to collaborate on creating a business 
-- 📫 How to reach me : ldvarzeckas@gmail.com
+- 📫 How to reach me: ldvarzeckas@gmail.com, .aspero
 
 <!---
 freqzas/freqzas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
