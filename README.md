@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Larry
-- 👀 I’m interested in full-stack web developer, AI/ML, Data science, and security
+- 👀 I’m interested in full-stack web development, AI/ML, Data science, and security
 - 🌱 I’m currently learning, -
 - 💞️ I’m looking to collaborate -
 - 📫 How to reach me: ldvarzeckas@gmail.com, .aspero
